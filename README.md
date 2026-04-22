@@ -2,6 +2,11 @@
 
 Telegram-бот для учета бюджета в поездках с конвертацией валют через `api.exchangerate.host` и хранением данных в `SQLite`.
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
+[![Repo](https://img.shields.io/badge/GitHub-currency--travel--bot-181717?logo=github)](https://github.com/Shch2295404/currency-travel-bot)
+
 ## Возможности
 
 - создание нескольких путешествий на пользователя;
